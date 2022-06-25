@@ -1,5 +1,5 @@
 <h1 align="left">Mateus Holanda</h1>
-<h2 align="left">Hi 👋! My name is Mateus and I'm a Full Stack Developer, from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Mateus and I'm a Full Stack Developer, from Brazil. My main stack is Python, Javascript, React, Node, React Native and Elixir. I'm also a Blockchain and cryptocurrency enthusiast.</h2>
 
 ###
 
