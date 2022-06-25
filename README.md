@@ -77,10 +77,6 @@
 
 ![snake gif](https://github.com/mateus-holanda/mateus-holanda/blob/output/snake.svg)
 
-<img href="https://raw.githubusercontent.com/mateus-holanda/mateus-holanda/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/mateus-holanda/count.svg?"  />
 </div>
