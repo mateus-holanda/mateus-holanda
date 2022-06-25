@@ -46,7 +46,7 @@
   <a href="https://www.instagram.com/mateush0landa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="Mateus Holanda#4761" target="_blank">
+  <a href="https://discord.com/users/391435976326643714" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mateus23ita@gmail.com" target="_blank">
@@ -55,10 +55,10 @@
   <a href="https://www.linkedin.com/in/mateusholanda/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="+55 12 981448114" target="_blank">
+  <a href="https://wa.me/5512981448114" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="@LibertyMatt" target="_blank">
+  <a href="https://t.me/LibertyMatt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://twitter.com/mateush0landa" target="_blank">
