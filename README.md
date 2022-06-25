@@ -1,5 +1,5 @@
 <h1 align="left">Mateus Holanda</h1>
-<h2 align="left">Hi 👋! My name is Mateus and I'm a Full Stack Developer, from Brazil. My main stack is Python, Javascript, React, Node, React Native and Elixir. I'm also a Blockchain and cryptocurrency enthusiast.</h2>
+<h3 align="left">Hi 👋! My name is Mateus and I'm a Full Stack Developer, from Brazil. My main stack is Python, Javascript, React, Node, React Native and Elixir. I'm also a Blockchain and cryptocurrency enthusiast.</h3>
 
 ###
 
@@ -74,6 +74,8 @@
 ###
 
 <br clear="both">
+
+![snake gif](https://github.com/mateus-holanda/mateus-holanda/blob/output/snake.svg)
 
 <img href="https://raw.githubusercontent.com/mateus-holanda/mateus-holanda/blob/output/snake.svg" alt="Snake animation" />
 
